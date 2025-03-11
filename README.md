@@ -56,7 +56,7 @@ Output: "Artificial intelligence is transforming the future of technology and hu
 ```
 
 ## Repository Link
-[GitHub Repository](https://github.com/MONISH-RAJ-T/neural-language-model.git)
+[GitHub Repository](https://github.com/Paari15/speech_language_processing.git)
 
 ## License
 This project is open-source and available under the MIT License.
